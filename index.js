@@ -50,7 +50,7 @@ var levelTwo = [
 
 ]
 
-console.log("Hello " + name + " your HTML quizz is ready.")
+console.log("Hello " + name + " your HTML quizz is ready. Qualifiy leve one by scoring 4 marks or above.")
 console.log("_______________")
 
 function askQue(level) {
